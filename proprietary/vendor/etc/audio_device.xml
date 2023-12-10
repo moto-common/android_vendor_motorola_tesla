@@ -779,6 +779,14 @@
             <kctl name="ADDA_DL_CH1 DL5_CH1" value="0" />
             <kctl name="ADDA_DL_CH2 DL5_CH2" value="0" />
         </path>
+        <path name="PLAYBACK5_TO_I2S1" value="turnon">
+            <kctl name="I2S1_CH1 DL5_CH1" value="1" />
+            <kctl name="I2S1_CH2 DL5_CH2" value="1" />
+        </path>
+        <path name="PLAYBACK5_TO_I2S1" value="turnoff">
+            <kctl name="I2S1_CH1 DL5_CH1" value="0" />
+            <kctl name="I2S1_CH2 DL5_CH2" value="0" />
+        </path>
         <path name="PLAYBACK5_TO_I2S3" value="turnon">
             <kctl name="I2S3_CH1 DL5_CH1" value="1" />
             <kctl name="I2S3_CH2 DL5_CH2" value="1" />

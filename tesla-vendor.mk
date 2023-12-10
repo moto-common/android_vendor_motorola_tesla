@@ -65,6 +65,14 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/imx766_mipi_raw/mt6879/ISP_param.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/imx766_mipi_raw/mt6879/ISP_param.db \
     vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/imx766dual_mipi_raw/mt6879/ISP_mapping.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/imx766dual_mipi_raw/mt6879/ISP_mapping.db \
     vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/imx766dual_mipi_raw/mt6879/ISP_param.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/imx766dual_mipi_raw/mt6879/ISP_param.db \
+    vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_aion_hi1336_mipi_raw/mt6879/ISP_mapping.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_aion_hi1336_mipi_raw/mt6879/ISP_mapping.db \
+    vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_aion_hi1336_mipi_raw/mt6879/ISP_param.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_aion_hi1336_mipi_raw/mt6879/ISP_param.db \
+    vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_aion_ov50a_mipi_raw/mt6879/ISP_mapping.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_aion_ov50a_mipi_raw/mt6879/ISP_mapping.db \
+    vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_aion_ov50a_mipi_raw/mt6879/ISP_param.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_aion_ov50a_mipi_raw/mt6879/ISP_param.db \
+    vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_aion_ov50e_mipi_raw/mt6879/ISP_mapping.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_aion_ov50e_mipi_raw/mt6879/ISP_mapping.db \
+    vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_aion_ov50e_mipi_raw/mt6879/ISP_param.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_aion_ov50e_mipi_raw/mt6879/ISP_param.db \
+    vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_aion_s5kgd2_mipi_raw/mt6879/ISP_mapping.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_aion_s5kgd2_mipi_raw/mt6879/ISP_mapping.db \
+    vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_aion_s5kgd2_mipi_raw/mt6879/ISP_param.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_aion_s5kgd2_mipi_raw/mt6879/ISP_param.db \
     vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_dubai_gc02m1b_mipi_raw/mt6879/ISP_mapping.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_dubai_gc02m1b_mipi_raw/mt6879/ISP_mapping.db \
     vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_dubai_gc02m1b_mipi_raw/mt6879/ISP_param.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_dubai_gc02m1b_mipi_raw/mt6879/ISP_param.db \
     vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_dubai_hi1336_mipi_raw/mt6879/ISP_mapping.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_dubai_hi1336_mipi_raw/mt6879/ISP_mapping.db \
@@ -73,6 +81,18 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_dubai_ov32c_mipi_raw/mt6879/ISP_param.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_dubai_ov32c_mipi_raw/mt6879/ISP_param.db \
     vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_dubai_ov50a_mipi_raw/mt6879/ISP_mapping.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_dubai_ov50a_mipi_raw/mt6879/ISP_mapping.db \
     vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_dubai_ov50a_mipi_raw/mt6879/ISP_param.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_dubai_ov50a_mipi_raw/mt6879/ISP_param.db \
+    vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_manaus_hi1336_mipi_raw/mt6879/ISP_mapping.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_manaus_hi1336_mipi_raw/mt6879/ISP_mapping.db \
+    vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_manaus_hi1336_mipi_raw/mt6879/ISP_param.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_manaus_hi1336_mipi_raw/mt6879/ISP_param.db \
+    vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_manaus_hi1336_mipi_raw_row/mt6879/ISP_mapping.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_manaus_hi1336_mipi_raw_row/mt6879/ISP_mapping.db \
+    vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_manaus_hi1336_mipi_raw_row/mt6879/ISP_param.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_manaus_hi1336_mipi_raw_row/mt6879/ISP_param.db \
+    vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_manaus_ov32b_mipi_raw/mt6879/ISP_mapping.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_manaus_ov32b_mipi_raw/mt6879/ISP_mapping.db \
+    vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_manaus_ov32b_mipi_raw/mt6879/ISP_param.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_manaus_ov32b_mipi_raw/mt6879/ISP_param.db \
+    vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_manaus_ov32b_mipi_raw_row/mt6879/ISP_mapping.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_manaus_ov32b_mipi_raw_row/mt6879/ISP_mapping.db \
+    vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_manaus_ov32b_mipi_raw_row/mt6879/ISP_param.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_manaus_ov32b_mipi_raw_row/mt6879/ISP_param.db \
+    vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_manaus_ov50a_mipi_raw/mt6879/ISP_mapping.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_manaus_ov50a_mipi_raw/mt6879/ISP_mapping.db \
+    vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_manaus_ov50a_mipi_raw/mt6879/ISP_param.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_manaus_ov50a_mipi_raw/mt6879/ISP_param.db \
+    vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_manaus_ov50a_mipi_raw_row/mt6879/ISP_mapping.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_manaus_ov50a_mipi_raw_row/mt6879/ISP_mapping.db \
+    vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_manaus_ov50a_mipi_raw_row/mt6879/ISP_param.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mot_manaus_ov50a_mipi_raw_row/mt6879/ISP_param.db \
     vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mt6879/ISP_info.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/mt6879/ISP_info.db \
     vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/ov48b_mipi_raw/mt6879/ISP_mapping.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/ov48b_mipi_raw/mt6879/ISP_mapping.db \
     vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/ov48b_mipi_raw/mt6879/ISP_param.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/ov48b_mipi_raw/mt6879/ISP_param.db \
@@ -82,8 +102,13 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/tesla/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/s5k3p9sp_mipi_raw/mt6879/ISP_param.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/s5k3p9sp_mipi_raw/mt6879/ISP_param.db \
     vendor/motorola/tesla/proprietary/vendor/bin/hw/mt6879/camerahalserver:$(TARGET_COPY_OUT_VENDOR)/bin/hw/mt6879/camerahalserver \
     vendor/motorola/tesla/proprietary/vendor/etc/AudioLog_dynamic.xml:$(TARGET_COPY_OUT_VENDOR)/etc/AudioLog_dynamic.xml \
-    vendor/motorola/tesla/proprietary/vendor/etc/apdb/APDB_MT6879___W2223:$(TARGET_COPY_OUT_VENDOR)/etc/apdb/APDB_MT6879___W2223 \
-    vendor/motorola/tesla/proprietary/vendor/etc/apdb/APDB_MT6879___W2223_ENUM:$(TARGET_COPY_OUT_VENDOR)/etc/apdb/APDB_MT6879___W2223_ENUM \
+    vendor/motorola/tesla/proprietary/vendor/etc/a2dp_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/a2dp_audio_policy_configuration.xml \
+    vendor/motorola/tesla/proprietary/vendor/etc/a2dp_in_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/a2dp_in_audio_policy_configuration.xml \
+    vendor/motorola/tesla/proprietary/vendor/etc/aivrs.ini:$(TARGET_COPY_OUT_VENDOR)/etc/aivrs.ini \
+    vendor/motorola/tesla/proprietary/vendor/etc/ap_gain.bin:$(TARGET_COPY_OUT_VENDOR)/etc/ap_gain.bin \
+    vendor/motorola/tesla/proprietary/vendor/etc/ap_gain_mmul.bin:$(TARGET_COPY_OUT_VENDOR)/etc/ap_gain_mmul.bin \
+    vendor/motorola/tesla/proprietary/vendor/etc/apdb/APDB_MT6879___W2328:$(TARGET_COPY_OUT_VENDOR)/etc/apdb/APDB_MT6879___W2328 \
+    vendor/motorola/tesla/proprietary/vendor/etc/apdb/APDB_MT6879___W2328_ENUM:$(TARGET_COPY_OUT_VENDOR)/etc/apdb/APDB_MT6879___W2328_ENUM \
     vendor/motorola/tesla/proprietary/vendor/etc/arcsoft_calibration_u_dc.bin:$(TARGET_COPY_OUT_VENDOR)/etc/arcsoft_calibration_u_dc.bin \
     vendor/motorola/tesla/proprietary/vendor/etc/audio_device.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_device.xml \
     vendor/motorola/tesla/proprietary/vendor/etc/audio_em.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_em.xml \
@@ -196,8 +221,10 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/tesla/proprietary/vendor/etc/audio_param/VolumeGainMap_ParamUnitDesc.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_param/VolumeGainMap_ParamUnitDesc.xml \
     vendor/motorola/tesla/proprietary/vendor/etc/audio_param/Volume_AudioParam.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_param/Volume_AudioParam.xml \
     vendor/motorola/tesla/proprietary/vendor/etc/audio_param/Volume_ParamUnitDesc.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_param/Volume_ParamUnitDesc.xml \
+    vendor/motorola/tesla/proprietary/vendor/etc/audio_policy.conf:$(TARGET_COPY_OUT_VENDOR)/etc/audio_policy.conf \
     vendor/motorola/tesla/proprietary/vendor/etc/aurisys_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/aurisys_config.xml \
     vendor/motorola/tesla/proprietary/vendor/etc/aurisys_config_hifi3.xml:$(TARGET_COPY_OUT_VENDOR)/etc/aurisys_config_hifi3.xml \
+    vendor/motorola/tesla/proprietary/vendor/etc/aurisys_config_rv.xml:$(TARGET_COPY_OUT_VENDOR)/etc/aurisys_config_rv.xml \
     vendor/motorola/tesla/proprietary/vendor/etc/cust_color.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cust_color.xml \
     vendor/motorola/tesla/proprietary/vendor/etc/cust_silky_brightness.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cust_silky_brightness.xml \
     vendor/motorola/tesla/proprietary/vendor/etc/dual_golden_depth.bin:$(TARGET_COPY_OUT_VENDOR)/etc/dual_golden_depth.bin \
@@ -205,6 +232,15 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/tesla/proprietary/vendor/etc/init/camerahalserver.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/camerahalserver.rc \
     vendor/motorola/tesla/proprietary/vendor/etc/libnfc-nci.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci.conf \
     vendor/motorola/tesla/proprietary/vendor/etc/libnfc-nxp.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nxp.conf \
+    vendor/motorola/tesla/proprietary/vendor/etc/lvacfs_params/3mic/LVACFS_Audiozoom.txt:$(TARGET_COPY_OUT_VENDOR)/etc/lvacfs_params/3mic/LVACFS_Audiozoom.txt \
+    vendor/motorola/tesla/proprietary/vendor/etc/lvacfs_params/3mic/LVACFS_Audiozoom_NR.txt:$(TARGET_COPY_OUT_VENDOR)/etc/lvacfs_params/3mic/LVACFS_Audiozoom_NR.txt \
+    vendor/motorola/tesla/proprietary/vendor/etc/lvacfs_params/3mic/LVACFS_Calibration_3mic.dat:$(TARGET_COPY_OUT_VENDOR)/etc/lvacfs_params/3mic/LVACFS_Calibration_3mic.dat \
+    vendor/motorola/tesla/proprietary/vendor/etc/lvacfs_params/3mic/LVACFS_Configuration.txt:$(TARGET_COPY_OUT_VENDOR)/etc/lvacfs_params/3mic/LVACFS_Configuration.txt \
+    vendor/motorola/tesla/proprietary/vendor/etc/lvacfs_params/3mic/audiozoom_1.txt:$(TARGET_COPY_OUT_VENDOR)/etc/lvacfs_params/3mic/audiozoom_1.txt \
+    vendor/motorola/tesla/proprietary/vendor/etc/lvacfs_params/3mic/audiozoom_101.txt:$(TARGET_COPY_OUT_VENDOR)/etc/lvacfs_params/3mic/audiozoom_101.txt \
+    vendor/motorola/tesla/proprietary/vendor/etc/lvacfs_params/3mic/audiozoom_102.txt:$(TARGET_COPY_OUT_VENDOR)/etc/lvacfs_params/3mic/audiozoom_102.txt \
+    vendor/motorola/tesla/proprietary/vendor/etc/lvacfs_params/3mic/audiozoom_3.txt:$(TARGET_COPY_OUT_VENDOR)/etc/lvacfs_params/3mic/audiozoom_3.txt \
+    vendor/motorola/tesla/proprietary/vendor/etc/motorola/sensors/mot_sensor_settings.json:$(TARGET_COPY_OUT_VENDOR)/etc/motorola/sensors/mot_sensor_settings.json \
     vendor/motorola/tesla/proprietary/vendor/etc/smartpa_param/AW_DSP.bin:$(TARGET_COPY_OUT_VENDOR)/etc/smartpa_param/AW_DSP.bin \
     vendor/motorola/tesla/proprietary/vendor/etc/thermal/disable_skin_control.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal/disable_skin_control.conf \
     vendor/motorola/tesla/proprietary/vendor/etc/thermal/disable_thermal.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal/disable_thermal.conf \
@@ -337,23 +373,27 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/tesla/proprietary/vendor/firmware/txpowerctrl_na.cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/txpowerctrl_na.cfg \
     vendor/motorola/tesla/proprietary/vendor/firmware/valhall-1691526.wa:$(TARGET_COPY_OUT_VENDOR)/firmware/valhall-1691526.wa \
     vendor/motorola/tesla/proprietary/vendor/firmware/wifi.cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/wifi.cfg \
+    vendor/motorola/tesla/proprietary/vendor/lib/hw/mt6879/vendor.mediatek.hardware.camera.atms@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/mt6879/vendor.mediatek.hardware.camera.atms@1.0-impl.so \
+    vendor/motorola/tesla/proprietary/vendor/lib/hw/mt6879/vendor.mediatek.hardware.camera.bgservice@1.1-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/mt6879/vendor.mediatek.hardware.camera.bgservice@1.1-impl.so \
     vendor/motorola/tesla/proprietary/vendor/lib/libJpgEncPipe.so:$(TARGET_COPY_OUT_VENDOR)/lib/libJpgEncPipe.so \
     vendor/motorola/tesla/proprietary/vendor/lib/libOpenCL.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOpenCL.so \
     vendor/motorola/tesla/proprietary/vendor/lib/libSQLiteModule_VER_ALL.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSQLiteModule_VER_ALL.so \
-    vendor/motorola/tesla/proprietary/vendor/lib/libaedv.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaedv.so \
-    vendor/motorola/tesla/proprietary/vendor/lib/libanti_eyeglasses_reflection.arcsoft.so:$(TARGET_COPY_OUT_VENDOR)/lib/libanti_eyeglasses_reflection.arcsoft.so \
-    vendor/motorola/tesla/proprietary/vendor/lib/libapu_mdw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libapu_mdw.so \
     vendor/motorola/tesla/proprietary/vendor/lib/libcamalgo.utility.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcamalgo.utility.so \
-    vendor/motorola/tesla/proprietary/vendor/lib/libged.so:$(TARGET_COPY_OUT_VENDOR)/lib/libged.so \
-    vendor/motorola/tesla/proprietary/vendor/lib/libgralloc_extra.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgralloc_extra.so \
-    vendor/motorola/tesla/proprietary/vendor/lib/libion_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib/libion_mtk.so \
-    vendor/motorola/tesla/proprietary/vendor/lib/libion_ulit.so:$(TARGET_COPY_OUT_VENDOR)/lib/libion_ulit.so \
+    vendor/motorola/tesla/proprietary/vendor/lib/libgz_uree.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgz_uree.so \
+    vendor/motorola/tesla/proprietary/vendor/lib/libimgsensorca.so:$(TARGET_COPY_OUT_VENDOR)/lib/libimgsensorca.so \
+    vendor/motorola/tesla/proprietary/vendor/lib/libispcameraca.so:$(TARGET_COPY_OUT_VENDOR)/lib/libispcameraca.so \
     vendor/motorola/tesla/proprietary/vendor/lib/libjpeg-alpha-oal_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libjpeg-alpha-oal_vendor.so \
     vendor/motorola/tesla/proprietary/vendor/lib/libjpeg-alpha_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libjpeg-alpha_vendor.so \
+    vendor/motorola/tesla/proprietary/vendor/lib/libspeechparser_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libspeechparser_vendor.so \
     vendor/motorola/tesla/proprietary/vendor/lib/mt6879/lib3a.ae.core.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/lib3a.ae.core.so \
     vendor/motorola/tesla/proprietary/vendor/lib/mt6879/lib3a.ae.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/lib3a.ae.so \
+    vendor/motorola/tesla/proprietary/vendor/lib/mt6879/lib3a.af.assist.models1d.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/lib3a.af.assist.models1d.so \
+    vendor/motorola/tesla/proprietary/vendor/lib/mt6879/lib3a.af.assist.models2d.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/lib3a.af.assist.models2d.so \
     vendor/motorola/tesla/proprietary/vendor/lib/mt6879/lib3a.awb.core.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/lib3a.awb.core.so \
     vendor/motorola/tesla/proprietary/vendor/lib/mt6879/lib3a.log.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/lib3a.log.so \
+    vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libaiawb_fs_model.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libaiawb_fs_model.so \
+    vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libaiawb_moon_model.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libaiawb_moon_model.so \
+    vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libaiawb_sun_model.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libaiawb_sun_model.so \
     vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libcam.hal3a.log.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libcam.hal3a.log.so \
     vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libcam.halsensor.hwintegration.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libcam.halsensor.hwintegration.so \
     vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libcam.halsensor.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libcam.halsensor.so \
@@ -363,6 +403,20 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libcameracustom.imgsensor.core.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libcameracustom.imgsensor.core.so \
     vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libcameracustom.lens.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libcameracustom.lens.so \
     vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libcameracustom.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libcameracustom.so \
+    vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libccd.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libccd.so \
+    vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libimgsys_adl.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libimgsys_adl.so \
+    vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libimgsys_daemon.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libimgsys_daemon.so \
+    vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libimgsys_dip.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libimgsys_dip.so \
+    vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libimgsys_drvcommon.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libimgsys_drvcommon.so \
+    vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libimgsys_gce.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libimgsys_gce.so \
+    vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libimgsys_me.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libimgsys_me.so \
+    vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libimgsys_pqdip.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libimgsys_pqdip.so \
+    vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libimgsys_system.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libimgsys_system.so \
+    vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libimgsys_taskhandler.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libimgsys_taskhandler.so \
+    vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libimgsys_tdrhal.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libimgsys_tdrhal.so \
+    vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libimgsys_traw.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libimgsys_traw.so \
+    vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libimgsys_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libimgsys_utils.so \
+    vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libimgsys_wpe.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libimgsys_wpe.so \
     vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libmtkcam.atmseventmgr.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libmtkcam.atmseventmgr.so \
     vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libmtkcam.debugwrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libmtkcam.debugwrapper.so \
     vendor/motorola/tesla/proprietary/vendor/lib/mt6879/libmtkcam.eventcallback.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6879/libmtkcam.eventcallback.so \
@@ -388,26 +442,20 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/tesla/proprietary/vendor/lib64/hw/mt6879/android.hardware.camera.provider@2.6-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/mt6879/android.hardware.camera.provider@2.6-impl-mediatek.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/hw/mt6879/vendor.mediatek.hardware.camera.atms@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/mt6879/vendor.mediatek.hardware.camera.atms@1.0-impl.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/hw/mt6879/vendor.mediatek.hardware.camera.bgservice@1.1-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/mt6879/vendor.mediatek.hardware.camera.bgservice@1.1-impl.so \
-    vendor/motorola/tesla/proprietary/vendor/lib64/hw/mt6879/vendor.mediatek.hardware.camera.isphal@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/mt6879/vendor.mediatek.hardware.camera.isphal@1.0-impl.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/hw/mt6879/vendor.mediatek.hardware.camera.isphal@1.1-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/mt6879/vendor.mediatek.hardware.camera.isphal@1.1-impl.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/hw/sensors.tesla.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/sensors.tesla.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/lib3a.ae.pipe.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib3a.ae.pipe.so \
-    vendor/motorola/tesla/proprietary/vendor/lib64/lib3a.cculog.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib3a.cculog.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libArcNetMtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libArcNetMtk.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libBasicModule.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libBasicModule.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libJpgEncPipe.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libJpgEncPipe.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libOpenCL.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libOpenCL.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libSQLiteModule_VER_ALL.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libSQLiteModule_VER_ALL.so \
-    vendor/motorola/tesla/proprietary/vendor/lib64/libaaa_gma.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaaa_gma.so \
-    vendor/motorola/tesla/proprietary/vendor/lib64/libanti_eyeglasses_reflection.arcsoft.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libanti_eyeglasses_reflection.arcsoft.so \
-    vendor/motorola/tesla/proprietary/vendor/lib64/libapu_mdw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libapu_mdw.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libarcsoft_portrait_distortion_correction.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_portrait_distortion_correction.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libarcsoft_portrait_super_night_se_raw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_portrait_super_night_se_raw.so \
-    vendor/motorola/tesla/proprietary/vendor/lib64/libarcsoft_portrait_super_night_se_raw_bin.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_portrait_super_night_se_raw_bin.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libarcsoft_super_night_raw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_super_night_raw.so \
-    vendor/motorola/tesla/proprietary/vendor/lib64/libarcsoft_super_night_raw_bin.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_super_night_raw_bin.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libarcsoft_super_night_se_raw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_super_night_se_raw.so \
-    vendor/motorola/tesla/proprietary/vendor/lib64/libarcsoft_super_night_se_raw_bin.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_super_night_se_raw_bin.so \
-    vendor/motorola/tesla/proprietary/vendor/lib64/libcam.hal3a.guard.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcam.hal3a.guard.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/libcam.seninfn3d.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcam.seninfn3d.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/libcamalgo.3dnr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamalgo.3dnr.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libcamalgo.WarpMapResizer.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamalgo.WarpMapResizer.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libcamalgo.dngop.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamalgo.dngop.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libcamalgo.eis.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamalgo.eis.so \
@@ -418,25 +466,32 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/tesla/proprietary/vendor/lib64/libcamalgo.lmv.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamalgo.lmv.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libcamalgo.mcnr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamalgo.mcnr.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libcamalgo.n3d.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamalgo.n3d.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/libcamalgo.nr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamalgo.nr.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libcamalgo.platform.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamalgo.platform.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libcamalgo.utility.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamalgo.utility.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libcamalgo.vsdofUtil.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamalgo.vsdofUtil.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libcamalgo.warp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamalgo.warp.so \
-    vendor/motorola/tesla/proprietary/vendor/lib64/libfeature.hdr10.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfeature.hdr10.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libfeaturepolicy.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfeaturepolicy.so \
-    vendor/motorola/tesla/proprietary/vendor/lib64/libfeaturepolicy_dbhandler.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfeaturepolicy_dbhandler.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/libgz_uree.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgz_uree.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libheichal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libheichal.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libimagebuffer_wrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libimagebuffer_wrapper.so \
-    vendor/motorola/tesla/proprietary/vendor/lib64/libion_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libion_mtk.so \
-    vendor/motorola/tesla/proprietary/vendor/lib64/libion_ulit.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libion_ulit.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/libimgsensorca.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libimgsensorca.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/libispcameraca.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libispcameraca.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libjpeg-alpha-oal_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libjpeg-alpha-oal_vendor.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libjpeg-alpha_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libjpeg-alpha_vendor.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libmpbase.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmpbase.so \
-    vendor/motorola/tesla/proprietary/vendor/lib64/libmtkcam_thirdparty.customzone.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtkcam_thirdparty.customzone.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/libmtkcam_fdWarpConvert.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtkcam_fdWarpConvert.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/libmtkcam_pipelinepolicy-aov.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtkcam_pipelinepolicy-aov.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/libmtkisp_metadata.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtkisp_metadata.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libmtkisp_metadata_v2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtkisp_metadata_v2.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/libpn557_fw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpn557_fw.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/libremosaic_wrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libremosaic_wrapper.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/libremosaiclib.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libremosaiclib.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/libspeechparser_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libspeechparser_vendor.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/lib3a.ae.core.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/lib3a.ae.core.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/lib3a.ae.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/lib3a.ae.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/lib3a.af.assist.models1d.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/lib3a.af.assist.models1d.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/lib3a.af.assist.models2d.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/lib3a.af.assist.models2d.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/lib3a.af.assist.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/lib3a.af.assist.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/lib3a.af.assist.utils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/lib3a.af.assist.utils.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/lib3a.af.core.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/lib3a.af.core.so \
@@ -445,6 +500,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/lib3a.alsflicker.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/lib3a.alsflicker.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/lib3a.awb.core.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/lib3a.awb.core.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/lib3a.awbsync.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/lib3a.awbsync.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/lib3a.cculog.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/lib3a.cculog.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/lib3a.custom.ae.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/lib3a.custom.ae.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/lib3a.flash.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/lib3a.flash.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/lib3a.flicker.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/lib3a.flicker.so \
@@ -458,24 +514,33 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/lib_bsscore.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/lib_bsscore.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libaaa_afassist.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libaaa_afassist.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libaaa_feature.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libaaa_feature.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libaaa_gma.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libaaa_gma.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libaaa_ltm.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libaaa_ltm.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libaaa_ltmx.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libaaa_ltmx.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libaaa_tnc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libaaa_tnc.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libaaa_toneutil.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libaaa_toneutil.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libaiawb_fs.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libaiawb_fs.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libaiawb_fs_model.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libaiawb_fs_model.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libaiawb_moon.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libaiawb_moon.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libaiawb_moon_model.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libaiawb_moon_model.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libaiawb_p1ggm.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libaiawb_p1ggm.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libaiawb_sun.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libaiawb_sun.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libaiawb_sun_model.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libaiawb_sun_model.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libaibc_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libaibc_tuning.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libaibc_tuning_p2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libaibc_tuning_p2.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libaibc_tuning_p3.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libaibc_tuning_p3.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libaibc_tuning_p4.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libaibc_tuning_p4.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libaidepth_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libaidepth_tuning.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libalgo.aosp.log.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libalgo.aosp.log.so \
-    vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libapudcutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libapudcutils.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcam.3a_isp.utils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcam.3a_isp.utils.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcam.afmgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcam.afmgr.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcam.chdr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcam.chdr.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcam.feature_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcam.feature_utils.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcam.fw_me_tcy.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcam.fw_me_tcy.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcam.hal3a.afassitmgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcam.hal3a.afassitmgr.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcam.hal3a.cctsvr.v4l2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcam.hal3a.cctsvr.v4l2.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcam.hal3a.ctrl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcam.hal3a.ctrl.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcam.hal3a.guard.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcam.hal3a.guard.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcam.hal3a.ircutdrv.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcam.hal3a.ircutdrv.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcam.hal3a.lensdrv.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcam.hal3a.lensdrv.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcam.hal3a.log.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcam.hal3a.log.so \
@@ -522,7 +587,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcamalgo.ais2.bss.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcamalgo.ais2.bss.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcamalgo.ais2.mfnr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcamalgo.ais2.mfnr.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcamalgo.bss.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcamalgo.bss.so \
-    vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcamalgo.cac.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcamalgo.cac.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcamalgo.fus.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcamalgo.fus.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcamalgo.lsc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcamalgo.lsc.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcamalgo.mfnr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcamalgo.mfnr.so \
@@ -543,6 +607,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcameracustom.camera.isp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcameracustom.camera.isp.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcameracustom.camera.sensors.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcameracustom.camera.sensors.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcameracustom.camera_calibration.core.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcameracustom.camera_calibration.core.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcameracustom.camera_exif.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcameracustom.camera_exif.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcameracustom.cfg_setting.core.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcameracustom.cfg_setting.core.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcameracustom.eis.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcameracustom.eis.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libcameracustom.flashlight.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libcameracustom.flashlight.so \
@@ -554,6 +619,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libeffecthal.base.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libeffecthal.base.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libfeature.face.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libfeature.face.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libfeature.fwmvp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libfeature.fwmvp.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libfeature.hdr10.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libfeature.hdr10.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libfeature.mcnr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libfeature.mcnr.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libfeature.stereo.provider.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libfeature.stereo.provider.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libfeature.vainr.hal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libfeature.vainr.hal.so \
@@ -564,6 +630,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libfeature_rss.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libfeature_rss.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libfeature_vrp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libfeature_vrp.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libfeatureiodrv_mem.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libfeatureiodrv_mem.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libfeaturepolicy_dbhandler.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libfeaturepolicy_dbhandler.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libimgsys_adl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libimgsys_adl.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libimgsys_cmt.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libimgsys_cmt.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libimgsys_daemon.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libimgsys_daemon.so \
@@ -611,6 +678,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_diputils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_diputils.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_dma_map.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_dma_map.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_exif.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_exif.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_externalisploader.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_externalisploader.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_faceResultHandler.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_faceResultHandler.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_grallocutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_grallocutils.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_hal3a_provider.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_hal3a_provider.so \
@@ -652,6 +720,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_modulefactory_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_modulefactory_utils.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_modulehelper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_modulehelper.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_packutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_packutils.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_pip.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_pip.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_pipeline.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_pipeline.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_pipeline_fbm.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_pipeline_fbm.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_pipelinemodel_capture.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_pipelinemodel_capture.so \
@@ -666,6 +735,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_prerelease.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_prerelease.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_proc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_proc.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_request_requlator.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_request_requlator.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_salmgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_salmgr.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_sensorcontrol.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_sensorcontrol.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_simager.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_simager.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_stdutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_stdutils.so \
@@ -674,6 +744,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_sysutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_sysutils.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_thirdparty.core.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_thirdparty.core.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_thirdparty.customer.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_thirdparty.customer.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_thirdparty.customzone.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_thirdparty.customzone.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_thirdparty.mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_thirdparty.mtk.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_thirdparty.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_thirdparty.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libmtkcam_tuning_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libmtkcam_tuning_utils.so \
@@ -682,6 +753,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libneuron_wrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libneuron_wrapper.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libpda_usdriver.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libpda_usdriver.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libstereoinfoaccessor_vsdof.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libstereoinfoaccessor_vsdof.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/libvainr_model.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/libvainr_model.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/mot_dubai_gc02m1b_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/mot_dubai_gc02m1b_mipi_raw_IdxMgr.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/mot_dubai_gc02m1b_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/mot_dubai_gc02m1b_mipi_raw_tuning.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/mot_dubai_hi1336_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/mot_dubai_hi1336_mipi_raw_IdxMgr.so \
@@ -692,11 +764,16 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/mot_dubai_ov50a_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/mot_dubai_ov50a_mipi_raw_tuning.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/mtk000_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/mtk000_mipi_raw_IdxMgr.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/mt6879/mtk000_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6879/mtk000_mipi_raw_tuning.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/tesla_arcsoft_portrait_super_night_se_raw.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/tesla_arcsoft_portrait_super_night_se_raw.bin \
+    vendor/motorola/tesla/proprietary/vendor/lib64/tesla_arcsoft_super_night_raw.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/tesla_arcsoft_super_night_raw.bin \
+    vendor/motorola/tesla/proprietary/vendor/lib64/tesla_arcsoft_super_night_se_raw.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/tesla_arcsoft_super_night_se_raw.bin \
     vendor/motorola/tesla/proprietary/vendor/lib64/vendor.mediatek.hardware.camera.atms@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.camera.atms@1.0.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/vendor.mediatek.hardware.camera.bgservice@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.camera.bgservice@1.0.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/vendor.mediatek.hardware.camera.bgservice@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.camera.bgservice@1.1.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/vendor.mediatek.hardware.camera.ccap@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.camera.ccap@1.0.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/vendor.mediatek.hardware.camera.frhandler@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.camera.frhandler@1.0.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/vendor.mediatek.hardware.camera.isphal@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.camera.isphal@1.0.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/vendor.mediatek.hardware.camera.isphal@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.camera.isphal@1.1.so \
+    vendor/motorola/tesla/proprietary/vendor/lib64/vendor.mediatek.hardware.camera.lomoeffect@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.camera.lomoeffect@1.0.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/vendor.mediatek.hardware.camera.postproc@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.camera.postproc@1.0.so \
     vendor/motorola/tesla/proprietary/vendor/lib64/vendor.mediatek.hardware.camera.security@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.camera.security@1.0.so

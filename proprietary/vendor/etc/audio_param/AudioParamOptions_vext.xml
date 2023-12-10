@@ -44,7 +44,7 @@
  <Param name="MTK_A2DP_OFFLOAD_SUPPORT" value="yes" />
  <Param name="MTK_TTY_SUPPORT" value="yes" />
  <Param name="MTK_AUDIO_A2DP_LATENCY_IMPROVE" value="yes" />
- <Param name="MTK_BT_HEARING_AID_SUPPORT" value="" />
+ <Param name="MTK_BT_HEARING_AID_SUPPORT" value="yes" />
  <Param name="MTK_SPK_AP_SWMIX_PROCESS" value="" />
  <Param name="MTK_AUDIODSP_SUPPORT" value="yes" />
  <Param name="MTK_INCALL_HANDSFREE_DMNR" value="yes" />
@@ -56,7 +56,9 @@
  <Param name="MTK_VOW_MULTI_KEYPHRASE_SUPPORT" value="" />
  <Param name="MTK_VOW_SINGLE_MIC_SELECT" value="" />
  <Param name="MTK_VOW_RECORD_CONCURRENT" value="" />
+ <Param name="MTK_VOW_NORMAL_RECORD_ENROLL" value="no" />
  <Param name="MTK_PHONE_CALL_FIXED_48K_SAMPLERATE" value="yes" />
+ <Param name="MTK_VOIP_SWB_ENHANCEMENT_SUPPORT" value="no" />
  <Param name="VIR_WIFI_ONLY_SUPPORT" value="no" />
  <Param name="VIR_3G_DATA_ONLY_SUPPORT" value="no" />
  <Param name="VIR_ASR_SUPPORT" value="no" />
@@ -82,6 +84,7 @@
  <Param name="DPCM_DEEP_BUFFER" value="Playback_3" />
  <Param name="RCV_PATH_NO_ANA" value="yes" />
  <Param name="SPK_PATH_NO_ANA" value="yes" />
+ <Param name="PHONECALL_ACOUSTIC_SHOCK" value="no" />
  <Param name="CUST_XML_DIR" value="/data/vendor/audiohal/audio_param/" />
  <Param name="5_POLE_HS_SUPPORT" value="" />
  <Param name="VIR_MTK_USB_PHONECALL" value="yes" />
